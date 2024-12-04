@@ -1,6 +1,34 @@
 # Improving National Financial Well-Being Through Machine Learning and Artificial Intelligence
 <p align="center"><img src="https://therightnewsnetwork.com/wp-content/uploads/2019/03/TRNN-Revelations-Finance.png" /></p>
 
+# Team Code Troopers - Hack The League Hackathon (Chapter 3)
+
+This repository contains the project developed by **Team Code Troopers**, which proudly ranked among the top **8%** teams in **Hack the League Chapter 3**, organized by **JECRC University**. Our innovative solution is a testament to our teamwork, technical skills, and problem-solving abilities.
+
+---
+
+## **Team Members**
+
+1. **Divyang Joshi** *(Team Lead)*  
+   [LinkedIn Profile](https://www.linkedin.com/in/divyang-joshi-1a2171239/)
+
+2. **Apoorva Dhokai**  
+   [LinkedIn Profile](https://www.linkedin.com/in/apoorva-dhokai-64b35a237/)
+
+3. **Nandini Agrawal**  
+   [LinkedIn Profile](https://www.linkedin.com/in/nandini-agrawal-874132245/)
+
+4. **Kinjal Shah**
+
+---
+
+## **About the Hackathon**
+
+- **Event**: Hack the League - Chapter 3  
+- **Organizer**: JECRC University  
+- **Achievement**: Top 8%  
+- **Focus**: Addressing real-world challenges through technological innovation.
+
 Table of Contents :bookmark_tabs:
 =================
 - [Executive Summary](#executive-summary)
